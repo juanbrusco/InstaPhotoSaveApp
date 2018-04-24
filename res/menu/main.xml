@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Main" >
+<!--     <item android:id="@+id/add" -->
+<!--         android:icon="@android:drawable/ic_menu_add" -->
+<!--         android:title="@string/add" -->
+<!--         android:orderInCategory="1" -->
+<!--         android:showAsAction="ifRoom"/> -->
+<!--     <item android:id="@+id/search" -->
+<!--         android:icon="@android:drawable/ic_menu_search" -->
+<!--         android:title="@string/search" -->
+<!--         android:orderInCategory="2" -->
+<!--         android:showAsAction="ifRoom"/> -->
+    <item android:id="@+id/instrucciones"
+        android:title="Instrucciones"
+        android:orderInCategory="3"
+        android:showAsAction="never"/>
+    
+    <item android:id="@+id/compartir"
+        android:title="Compartir"
+        android:orderInCategory="4"
+        android:showAsAction="never"/>
+    
+    <item android:id="@+id/acerca"
+        android:title="Acerca de..."
+        android:orderInCategory="5"
+        android:showAsAction="never"/>
+<!--     <item android:id="@+id/action_settings" -->
+<!--         android:title="@string/action_settings" -->
+<!--         android:orderInCategory="100" -->
+<!--         android:showAsAction="never" /> -->
+
+</menu>

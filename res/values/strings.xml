@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Insta Photo Save</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_settings_share">Share</string>
+    <string name="title_activity_acerca">Acerca</string>
+    <string name="title_activity_instrucciones">Instrucciones</string>
+    <string name="pegar_la_url">URL de foto</string>
+    <string name="descargar_foto">Descargar</string>
+    <string name="obtener_foto">Obtener Foto</string>
+    <string name="todo">TODO</string>
+    <string name="copia_la_url">- Copia la URL de la foto de un perfil público de Instagram.</string>
+    <string name="abre_el_link">- O abre el link publicado en alguna Red Social y copia la URL que se generó en el navegador (no olvidar el protocolo https://).</string>
+    <string name="bot_n_para_descargar">- Finalmente aparecerán dos botones, uno para guardar la foto y otro para compartirla.</string>
+    <string name="bot_n_para_obtener">- Presiona el botón para obtener la foto elegida.</string>
+    <string name="pega_la_url">- Mantén presionado en la pantalla donde dice .:URL de la foto:. hasta que muestre la opción para pegar el link de la foto.</string>
+   
+
+</resources>
